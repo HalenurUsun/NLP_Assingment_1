@@ -1,0 +1,8 @@
+Two-Layer MLP Performance Metrics
+================================
+F1 Score: 0.9800
+AUC Score: 0.9957
+
+Confusion Matrix:
+[[729   6]
+ [  6 294]]

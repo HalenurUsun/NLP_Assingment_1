@@ -1,0 +1,26 @@
+SPAM DETECTION SYSTEM - FINAL RESULTS
+==================================================
+
+MODEL COMPARISON
+--------------------
+
+
+Naive Bayes Results:
+F1 Score: 0.9419
+AUC Score: 0.9934
+
+Confusion Matrix:
+[[698  37]
+ [  0 300]]
+----------------------------------------
+
+Two-Layer MLP Results:
+F1 Score: 0.9800
+AUC Score: 0.9957
+
+Confusion Matrix:
+[[729   6]
+ [  6 294]]
+----------------------------------------
+
+Report generated at: 2024-12-12 23:03:21.592244

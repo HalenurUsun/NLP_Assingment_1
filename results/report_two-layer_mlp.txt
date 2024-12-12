@@ -1,0 +1,9 @@
+Classification Report - Two-Layer MLP:
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       735
+           1       0.98      0.98      0.98       300
+
+    accuracy                           0.99      1035
+   macro avg       0.99      0.99      0.99      1035
+weighted avg       0.99      0.99      0.99      1035
